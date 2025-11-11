@@ -1,6 +1,6 @@
 # Compara-o-de-Desempenho-entre-Modelos-de-Threads-N-M-e-1-1
 
-
+Grupo: Felippe Matias Cardinot, Breno Augusto Rocha, João Victor Cracco Moro, Pietro de Souza 
 
 
 Desempenho do Modelo N:M:
